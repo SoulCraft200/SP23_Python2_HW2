@@ -1,0 +1,13 @@
+Artificial intelligence (AI), sometimes called machine intelligence, is intelligence demonstrated by machines, in
+contrast to the natural intelligence displayed by humans and other animals. In computer science AI research is defined
+as the study of "intelligent agents": any device that perceives its environment and takes actions that maximize its
+chance of successfully achieving its goals. Colloquially, the term "artificial intelligence" is applied when a machine
+mimics "cognitive" functions that humans associate with other human minds, such as "learning" and problem-solving.
+The scope of AI is disputed: as machines become increasingly capable, tasks considered as requiring "intelligence" are
+often removed from the definition, a phenomenon known as the AI effect, leading to the quip in Tesler Theorem, "AI is
+whatever hasn't been done yet.  For instance, optical character recognition is frequently excluded from "artificial
+intelligence", having become a routine technology. Modern machine capabilities generally classified as AI include
+successfully understanding human speech, competing at the highest level in strategic game systems (such as chess and Go),
+ autonomously operating cars, and intelligent routing in content delivery networks and military simulations.
+Recently, Deep Learning is a hot topic in AI. It acts as a classifier that detects objects such as cats and dogs in
+images and videos
